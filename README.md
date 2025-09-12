@@ -15,3 +15,4 @@ You’ve obtained data from the U.S. Environmental Protection Agency (EPA), cont
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project was part of a competition on DataCamp.
+Note that Part I & Part II were done separately. The latter examined the last section using hypothesis testing whereas the former did not.
