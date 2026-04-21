@@ -12,7 +12,5 @@ You’ve obtained data from the U.S. Environmental Protection Agency (EPA), cont
 - Consider if urban activity (weekend vs. weekday) has any effect on ozone levels across different days.
 - Bonus: plot a geospatial heatmap showing any high ozone concentrations.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-This project was part of a competition on DataCamp.
+This project was done in September, 2025. This project was part of a competition on DataCamp.
 Note that Part I & Part II were done separately. The latter specifically re-examined the last section & used hypothesis testing which was not present in the former.
