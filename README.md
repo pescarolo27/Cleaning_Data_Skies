@@ -8,6 +8,7 @@ Before meaningful insights can be provided, the data needs to be cleaned and val
 
 This project was done in September, 2025. It was part of a competition on _DataCamp_.  
 Note that two files were completed & included in this repository: _Cleaning Data & the Skies I_, _Cleaning Data & the Skies II_. The only difference is in the last section (**Analysis IV**). Particularly, the latter file re-examined the data using hypothesis testing. Both files included analyses concerning the first objective, which had to do with preprocessing the data, because the subsequent analyses utilized the clean version of the dataset. In short, the first file (Part I) contains analyses for all four objectives, whereas the second file (Part II) contains a different analysis for the last objective plus the same analysis of the first objective.
+- Due to the file size of the _Cleaning Data & the Skies I_ .ipynb file (~ 59 MB), it could not be uploaded to Github.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
